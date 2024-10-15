@@ -9,6 +9,7 @@ public class Ex08 {
 		Object obj02 = "aaa";
 		Object obj03 = 1.2323;
 		Object obj04 = new Ex07();
+		
 		String s = obj02 + "bbbb";
 		
 		System.out.println((int)obj01 * 100);
